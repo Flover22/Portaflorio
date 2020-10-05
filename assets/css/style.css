@@ -23,8 +23,15 @@ header {
     height: 737px;
 }
 
+header .container {
+    min-width: 17rem;
+    text-align: center;
+
+}
+
+
 header h1 {
-    font-size: 72px;
+    font-size: 3rem;
     margin-top: 29.68rem;
 }
 
