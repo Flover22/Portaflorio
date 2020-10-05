@@ -1,0 +1,81 @@
+body{
+    font-family: 'Karla', sans-serif;
+    font-size: 1.25em;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+  }
+
+.texto-logo{
+    font-family: 'Lora', serif;
+    font-weight: 700;
+    letter-spacing: 1px;
+    font-size: 2.5rem;
+}
+
+header {
+    background-image: url('../img/Foto-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    padding-bottom: 10rem;
+    font-family: 'Lora', serif;
+    height: 737px;
+}
+
+header h1 {
+    font-size: 72px;
+    margin-top: 29.68rem;
+}
+
+header p {
+    font-size: 21px;
+}
+
+.sobre-mi h2 {
+    font-size: 21px;
+    line-height: 2;
+}
+
+hr {
+    padding-top: 3px;
+    max-width: 40px;
+}
+
+.parrafos {
+    align-content: center;
+}
+
+.parrafos p {
+    font-size: 18px;
+    line-height: 2;
+}
+
+.experiencia h2, .trabajos h2, .contacto h2 {
+    font-family: 'Lora', serif;
+    font-weight: 700;
+    font-size: 38px;
+}
+
+
+
+h3, h5 {
+    font-family: 'Lora', serif;
+    font-weight: 700;
+    font-size: 24px; 
+}
+
+.fechas, .modal-body {
+    font-weight: 400;
+    font-size: 16px; 
+}
+
+.card {
+    border: 0;
+}
+
+.card-body p {
+    font-weight: 400;
+    font-size: 14px; 
+}
+
